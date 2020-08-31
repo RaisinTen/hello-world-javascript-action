@@ -1,3 +1,5 @@
+![.github/workflows/main.yml](https://github.com/RaisinTen/hello-world-javascript-action/workflows/.github/workflows/main.yml/badge.svg)
+
 # Hello world javascript action
 
 THis action prints "Hello World" or "Hello" + the name of a person to greet to the log.
